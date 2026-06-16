@@ -1,0 +1,6 @@
+{
+  "name": "STREAM",
+  "description": "An immersive, high-fidelity cinematic streaming web portal featuring dynamic bento screens, movie exploration, personalized watchlists, active subscription management, and complete real-time administrator dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
